@@ -1,0 +1,2 @@
+zero_time		f	i		o		age	sex	muscle	channel	diagnosis TotalP MeanP	MedF	MeanF	PeakF	dMedFfirst	dMedFend	frate	infa
+
